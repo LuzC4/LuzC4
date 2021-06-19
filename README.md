@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/d3uIT8c.png" style="max-width:100%;">
+  <img src="https://github.com/LuzC4/LuzC4/wiki" style="max-width:100%;">
 </p>
 <br>
 
