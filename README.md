@@ -25,10 +25,7 @@ Anakysis and developer of sistems information Machine Learning Engineer with exp
 
 - 🌱 I’m currently learning Dart and Python.
 - 🔭 I’m currently working on build .
-- 😀 I like cooking :man_cook:, reading :books:, climbing :climbing_man:, photography :camera_flash: and playing the violin :violin:. 
-- 📫 Read my blogs: [Carlos Barros](https://medium.com/@cbarros7).
 - 💬 Ask me about anything an everything.
-- 🎯 Portfolio site: [Portfolio](https://carlosbarros.netlify.app/)
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 
 <br/>  
