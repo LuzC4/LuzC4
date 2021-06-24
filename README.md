@@ -21,7 +21,7 @@
 
   
 ### I'm glad to see you here!  
-Analysis and developer of sistems information Machine Learning Engineer with experience in projects and works focusing on helping companies to empower themselves from data to obtain greater performance and profitability supported by the latest technological advances. I love to explore and learn about new things.
+Analysis and developer of sistems information .
 
 - 🌱 I’m currently learning Dart and Python.
 - 🔭 I’m currently working on build .
